@@ -14,6 +14,8 @@ on:
 jobs:
     update:
         runs-on: ubuntu-latest
+        env:
+            RSS_SOURCE_URL: ${{ inputs.rss_source_url || 'https://www.tagesschau.de/multimedia/sendung/tagesschau_in_100_sekunden/podcast-ts100-audio-100~podcast.xml' }}
         steps:
             - name: Checkout repo
               uses: actions/checkout@v4
@@ -24,7 +26,7 @@ jobs:
                   python-version: "3.x"
 
             - name: Download source feed
-              run: curl -s "${{ inputs.rss_source_url }}" -o data/source.xml
+              run: curl -s "${{ env.RSS_SOURCE_URL }}" -o data/source.xml
 
             - name: Run feed generator
               run: python src/feed_generator.py
