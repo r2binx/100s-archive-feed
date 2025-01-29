@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Tagesschau 100 Sekunden Archive</title>
+    <link>https://github.com/r2binx/100s-archive-feed</link>
+    <description>Archived episodes of Tagesschau in 100 Sekunden</description>
+    <language>de</language>
+    <copyright>ARD-aktuell / tagesschau.de</copyright>
+    <managingEditor>podcast@tagesschau.de</managingEditor>
+    <webMaster>podcast@tagesschau.de</webMaster>
+    <generator>manual</generator>
+    <ttl>360</ttl>
+    <itunes:owner>
+      <itunes:name>tagesschau</itunes:name>
+      <itunes:email>podcast@tagesschau.de</itunes:email>
+    </itunes:owner>
+    <itunes:author>tagesschau</itunes:author>
+    <itunes:category text="News"/>
+    <itunes:category text="Podcasts"/>
+    <itunes:image href="https://images.tagesschau.de/image/72f4cb81-8664-42d9-a4c9-2a0e4584f5be/AAABj9zxC04/AAABkZLmxXo/1x1-1400/podcast-tsh-100.jpg?overlay=542c7aa9-161c-48e8-a1cc-e49f9c91d757&amp;overlayModificationDate=AAABgSP-H5A"/>
+    <image>
+      <title>Logo: Audio-Podcast tagesschau 100 Sekunden</title>
+      <url>https://images.tagesschau.de/image/72f4cb81-8664-42d9-a4c9-2a0e4584f5be/AAABj9zxC04/AAABkZLmxXo/1x1-1400/podcast-tsh-100.jpg?overlay=542c7aa9-161c-48e8-a1cc-e49f9c91d757&amp;overlayModificationDate=AAABgSP-H5A</url>
+      <link>https://www.tagesschau.de/multimedia/sendung/tagesschau_in_100_sekunden/podcast-ts100-audio-100.html</link>
+      <width>1400</width>
+      <height>1400</height>
+    </image>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <mpBroadcasting/>
+    <documentsFoundByFilter/>
+    <teasers/>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:language>de</dc:language>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:source>tagesschau.de</dc:source>
+    <itunes:keywords>tagesschau in 100 Sekunden</itunes:keywords>
+    <itunes:summary>Der tagesschau-Nachrichtenüberblick in 100 Sekunden als Audio-Podcast</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+  </channel>
+</rss> 

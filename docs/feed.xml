@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Tagesschau 100 Sekunden Archive</title>
+    <link>https://github.com/r2binx/100s-archive-feed</link>
+    <description>Archived episodes of Tagesschau in 100 Sekunden</description>
+    <language>de</language>
+    <copyright>ARD-aktuell / tagesschau.de</copyright>
+    <managingEditor>podcast@tagesschau.de</managingEditor>
+    <webMaster>podcast@tagesschau.de</webMaster>
+    <generator>manual</generator>
+    <ttl>360</ttl>
+    <itunes:owner>
+      <itunes:name>tagesschau</itunes:name>
+      <itunes:email>podcast@tagesschau.de</itunes:email>
+    </itunes:owner>
+    <itunes:author>tagesschau</itunes:author>
+    <itunes:category text="News"></itunes:category>
+    <itunes:category text="Podcasts"></itunes:category>
+    <itunes:image href="https://images.tagesschau.de/image/72f4cb81-8664-42d9-a4c9-2a0e4584f5be/AAABj9zxC04/AAABkZLmxXo/1x1-1400/podcast-tsh-100.jpg?overlay=542c7aa9-161c-48e8-a1cc-e49f9c91d757&amp;overlayModificationDate=AAABgSP-H5A"></itunes:image>
+    <image>
+      <title>Logo: Audio-Podcast tagesschau 100 Sekunden</title>
+      <url>https://images.tagesschau.de/image/72f4cb81-8664-42d9-a4c9-2a0e4584f5be/AAABj9zxC04/AAABkZLmxXo/1x1-1400/podcast-tsh-100.jpg?overlay=542c7aa9-161c-48e8-a1cc-e49f9c91d757&amp;overlayModificationDate=AAABgSP-H5A</url>
+      <link>https://www.tagesschau.de/multimedia/sendung/tagesschau_in_100_sekunden/podcast-ts100-audio-100.html</link>
+      <width>1400</width>
+      <height>1400</height>
+    </image>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <mpBroadcasting></mpBroadcasting>
+    <documentsFoundByFilter></documentsFoundByFilter>
+    <teasers></teasers>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:language>de</dc:language>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:source>tagesschau.de</dc:source>
+    <itunes:keywords>tagesschau in 100 Sekunden</itunes:keywords>
+    <itunes:summary>Der tagesschau-Nachrichtenüberblick in 100 Sekunden als Audio-Podcast</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Wed, 29 Jan 2025 16:56:57 +0000</pubDate>
+    <lastBuildDate>Wed, 29 Jan 2025 16:56:57 +0000</lastBuildDate>
+    <item>
+      <title>2025-01-29 - tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/multimedia/sendung/tagesschau_in_100_sekunden/audio-208644.html</link>
+      <description>2025-01-29 - tagesschau in 100 Sekunden</description>
+      <pubDate>Wed, 29 Jan 2025 17:38:00 +0100</pubDate>
+      <enclosure url="https://media.tagesschau.de/audio/2025/0129/AU-20250129-1738-2000.mp3" type="audio/mpeg" length="1924086"></enclosure>
+      <guid isPermaLink="false">e8683fd4-aab5-437c-a19c-7252cd7673a7</guid>
+      <dc:date>2025-01-29T16:38:00Z</dc:date>
+      <content:encoded>tagesschau in 100 Sekunden</content:encoded>
+      <itunes:duration>00:02:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://images.tagesschau.de/image/72f4cb81-8664-42d9-a4c9-2a0e4584f5be/AAABj9zxC04/AAABkZLmxXo/1x1-1400/podcast-tsh-100.jpg?overlay=542c7aa9-161c-48e8-a1cc-e49f9c91d757&amp;overlayModificationDate=AAABgSP-H5A"></itunes:image>
+      <itunes:summary>tagesschau in 100 Sekunden</itunes:summary>
+    </item>
+  </channel>
+</rss>
