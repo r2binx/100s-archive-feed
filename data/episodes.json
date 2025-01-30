@@ -89,7 +89,7 @@
     ]
   },
   "2025-01-30": {
-    "date": "2025-01-30T05:01:00+01:00",
+    "date": "2025-01-30T08:13:00+01:00",
     "elements": [
       {
         "namespace": null,
@@ -100,7 +100,7 @@
       {
         "namespace": null,
         "tag": "link",
-        "text": "https://www.tagesschau.de/multimedia/sendung/tagesschau_in_100_sekunden/audio-208662.html",
+        "text": "https://www.tagesschau.de/multimedia/sendung/tagesschau_in_100_sekunden/audio-208688.html",
         "attrib": {}
       },
       {
@@ -112,7 +112,7 @@
       {
         "namespace": null,
         "tag": "pubDate",
-        "text": "Thu, 30 Jan 2025 05:01:00 +0100",
+        "text": "Thu, 30 Jan 2025 08:13:00 +0100",
         "attrib": {}
       },
       {
@@ -120,21 +120,21 @@
         "tag": "enclosure",
         "text": null,
         "attrib": {
-          "url": "https://media.tagesschau.de/audio/2025/0130/AU-20250130-0501-3400.mp3",
+          "url": "https://media.tagesschau.de/audio/2025/0130/AU-20250130-0813-3400.mp3",
           "type": "audio/mpeg",
-          "length": "1972086"
+          "length": "1695606"
         }
       },
       {
         "namespace": null,
         "tag": "guid",
-        "text": "72d314a5-8346-4113-9df0-34094d8f933a",
+        "text": "61d9e076-8d28-4290-8d57-846b6fb276e0",
         "attrib": {}
       },
       {
         "namespace": "http://purl.org/dc/elements/1.1/",
         "tag": "date",
-        "text": "2025-01-30T04:01:00Z",
+        "text": "2025-01-30T07:13:00Z",
         "attrib": {}
       },
       {
@@ -146,7 +146,7 @@
       {
         "namespace": "http://www.itunes.com/dtds/podcast-1.0.dtd",
         "tag": "duration",
-        "text": "00:02:03",
+        "text": "00:01:45",
         "attrib": {}
       },
       {
