@@ -1,6 +1,6 @@
 {
-  "2025-01-29": {
-    "date": "2025-01-29T22:19:00+01:00",
+  "32ac174f-c5e4-46d7-9446-789478213b4a": {
+    "date": "2025-01-30T09:39:00+01:00",
     "elements": [
       {
         "namespace": null,
@@ -11,7 +11,7 @@
       {
         "namespace": null,
         "tag": "link",
-        "text": "https://www.tagesschau.de/multimedia/sendung/tagesschau_in_100_sekunden/audio-208654.html",
+        "text": "https://www.tagesschau.de/multimedia/sendung/tagesschau_in_100_sekunden/audio-208700.html",
         "attrib": {}
       },
       {
@@ -23,7 +23,7 @@
       {
         "namespace": null,
         "tag": "pubDate",
-        "text": "Wed, 29 Jan 2025 22:19:00 +0100",
+        "text": "Thu, 30 Jan 2025 09:39:00 +0100",
         "attrib": {}
       },
       {
@@ -31,21 +31,21 @@
         "tag": "enclosure",
         "text": null,
         "attrib": {
-          "url": "https://media.tagesschau.de/audio/2025/0129/AU-20250129-2218-5800.mp3",
+          "url": "https://media.tagesschau.de/audio/2025/0130/AU-20250130-0939-1800.mp3",
           "type": "audio/mpeg",
-          "length": "1834614"
+          "length": "1823094"
         }
       },
       {
         "namespace": null,
         "tag": "guid",
-        "text": "1671afeb-eca6-4863-9844-b89a86a850e1",
+        "text": "32ac174f-c5e4-46d7-9446-789478213b4a",
         "attrib": {}
       },
       {
         "namespace": "http://purl.org/dc/elements/1.1/",
         "tag": "date",
-        "text": "2025-01-29T21:19:00Z",
+        "text": "2025-01-30T08:39:00Z",
         "attrib": {}
       },
       {
@@ -57,7 +57,7 @@
       {
         "namespace": "http://www.itunes.com/dtds/podcast-1.0.dtd",
         "tag": "duration",
-        "text": "00:01:54",
+        "text": "00:01:53",
         "attrib": {}
       },
       {
@@ -88,7 +88,7 @@
       }
     ]
   },
-  "2025-01-30": {
+  "60aeced7-db45-40f1-a19d-3730a18a2dbb": {
     "date": "2025-01-30T10:40:00+01:00",
     "elements": [
       {
@@ -147,6 +147,95 @@
         "namespace": "http://www.itunes.com/dtds/podcast-1.0.dtd",
         "tag": "duration",
         "text": "00:01:52",
+        "attrib": {}
+      },
+      {
+        "namespace": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "tag": "episodeType",
+        "text": "full",
+        "attrib": {}
+      },
+      {
+        "namespace": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "tag": "explicit",
+        "text": "no",
+        "attrib": {}
+      },
+      {
+        "namespace": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "tag": "image",
+        "text": null,
+        "attrib": {
+          "href": "https://images.tagesschau.de/image/72f4cb81-8664-42d9-a4c9-2a0e4584f5be/AAABj9zxC04/AAABkZLmxXo/1x1-1400/podcast-tsh-100.jpg?overlay=542c7aa9-161c-48e8-a1cc-e49f9c91d757&overlayModificationDate=AAABgSP-H5A"
+        }
+      },
+      {
+        "namespace": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "tag": "summary",
+        "text": "tagesschau in 100 Sekunden",
+        "attrib": {}
+      }
+    ]
+  },
+  "65dcc626-13ec-4f54-84bd-0e95409ef1a5": {
+    "date": "2025-01-30T11:35:00+01:00",
+    "elements": [
+      {
+        "namespace": null,
+        "tag": "title",
+        "text": "tagesschau in 100 Sekunden",
+        "attrib": {}
+      },
+      {
+        "namespace": null,
+        "tag": "link",
+        "text": "https://www.tagesschau.de/multimedia/sendung/tagesschau_in_100_sekunden/audio-208708.html",
+        "attrib": {}
+      },
+      {
+        "namespace": null,
+        "tag": "description",
+        "text": "tagesschau in 100 Sekunden",
+        "attrib": {}
+      },
+      {
+        "namespace": null,
+        "tag": "pubDate",
+        "text": "Thu, 30 Jan 2025 11:35:00 +0100",
+        "attrib": {}
+      },
+      {
+        "namespace": null,
+        "tag": "enclosure",
+        "text": null,
+        "attrib": {
+          "url": "https://media.tagesschau.de/audio/2025/0130/AU-20250130-1135-0000.mp3",
+          "type": "audio/mpeg",
+          "length": "1876854"
+        }
+      },
+      {
+        "namespace": null,
+        "tag": "guid",
+        "text": "65dcc626-13ec-4f54-84bd-0e95409ef1a5",
+        "attrib": {}
+      },
+      {
+        "namespace": "http://purl.org/dc/elements/1.1/",
+        "tag": "date",
+        "text": "2025-01-30T10:35:00Z",
+        "attrib": {}
+      },
+      {
+        "namespace": "http://purl.org/rss/1.0/modules/content/",
+        "tag": "encoded",
+        "text": "tagesschau in 100 Sekunden",
+        "attrib": {}
+      },
+      {
+        "namespace": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "tag": "duration",
+        "text": "00:01:57",
         "attrib": {}
       },
       {
