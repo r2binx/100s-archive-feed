@@ -73,39 +73,24 @@ def get_current_episode():
 def update_feed(new_episode):
     try:
         with open(STORAGE_FILE, "r") as f:
-            original_episodes = json.load(f)
-            episodes = original_episodes.copy()
+            episodes = json.load(f)
     except FileNotFoundError:
-        original_episodes = {}
         episodes = {}
 
-    now = datetime.now(timezone.utc).isoformat()
-    episode_date = new_episode["date"][:10]
+    # Get GUID from new episode
+    guid = next(e["text"] for e in new_episode["elements"] if e["tag"] == "guid")
 
-    # Check if we already have this exact episode
-    if episode_date in episodes:
-        existing_episode = episodes[episode_date]
-        if existing_episode["date"] == new_episode["date"]:
-            print("No new episode detected")
-            return False
-
-    # Keep only the latest episode for each day
-    if episode_date in episodes:
-        if new_episode["date"] > episodes[episode_date]["date"]:
-            episodes[episode_date] = new_episode
-    else:
-        episodes[episode_date] = new_episode
-
-    # Only write if there are changes
-    if episodes == original_episodes:
-        print("No changes to episodes")
+    if guid in episodes:
+        print(f"Episode {guid} already exists")
         return False
+
+    episodes[guid] = new_episode
 
     with open(STORAGE_FILE, "w") as f:
         json.dump(episodes, f, indent=2)
         print("Updated episodes.json")
 
-    return generate_rss(episodes)
+    return generate_rss(list(episodes.values()))
 
 
 def generate_rss(episodes):
@@ -138,8 +123,12 @@ def generate_rss(episodes):
 
     print(f"Generating RSS feed with {len(episodes)} episodes")
 
-    for date_str, episode in sorted(episodes.items(), reverse=True):
-        print(f"\nProcessing episode from {date_str}")
+    sorted_episodes = sorted(
+        episodes, key=lambda x: datetime.fromisoformat(x["date"]), reverse=True
+    )
+
+    for episode in sorted_episodes:
+        print(f"Processing episode from {episode['date']}")
         item = ET.SubElement(channel, "item")
 
         # Recreate all original elements with modified title/description
@@ -154,19 +143,23 @@ def generate_rss(episodes):
             else:
                 full_tag = tag
 
-            # Existing text modification logic
+            episode_datetime = datetime.fromisoformat(episode["date"])
+            title_time = episode_datetime.strftime("%Y-%m-%dT%H:%M")
+            desc_date = episode_datetime.strftime("%Y-%m-%d")
+            desc_time = episode_datetime.strftime("%H:%M")
+            desc_text = f"tagesschau in 100 Sekunden vom {desc_date} um {desc_time} Uhr"
+
+            # Modified text with full ISO datetime
             if tag == "title":
-                text = f"{date_str} - {text}"
+                text = f"{title_time} - {text}"
             elif tag == "description":
-                text = f"{date_str} - {text}"
+                text = desc_text
             elif tag == "guid":
                 attrib["isPermaLink"] = "false"
-            elif (
-                tag == "explicit"
-                and elem_data["namespace"]
-                == "http://www.itunes.com/dtds/podcast-1.0.dtd"
-            ):
+            elif tag == "explicit" and elem_data["namespace"] == NAMESPACES["itunes"]:
                 text = "false" if text == "no" else text
+            elif tag == "summary" and elem_data["namespace"] == NAMESPACES["itunes"]:
+                text = desc_text
 
             element = ET.SubElement(item, full_tag, attrib)
             element.text = text
