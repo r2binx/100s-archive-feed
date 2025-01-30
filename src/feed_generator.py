@@ -160,6 +160,14 @@ def generate_rss(episodes):
                 text = "false" if text == "no" else text
             elif tag == "summary" and elem_data["namespace"] == NAMESPACES["itunes"]:
                 text = desc_text
+            elif tag == "encoded" and elem_data["namespace"] == NAMESPACES["content"]:
+                # Get the episode link from the regular link element
+                episode_link = next(
+                    e["text"]
+                    for e in episode["elements"]
+                    if e["tag"] == "link" and e["namespace"] is None
+                )
+                text = f'<p>{desc_text}<br /><a href="{episode_link}">{episode_link}</a></p>'
 
             element = ET.SubElement(item, full_tag, attrib)
             element.text = text
