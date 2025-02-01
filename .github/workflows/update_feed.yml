@@ -2,7 +2,7 @@ name: Update Podcast Feed
 
 on:
     schedule:
-        - cron: "*/20 5-11,16-21 * * *" # Run every 20 minutes between 5am - 11pm and 4pm - 9pm UTC
+        - cron: "*/20 5-11,14-22 * * *" # Run every 20 minutes between 5am - 11am and 2pm - 10pm UTC
     workflow_dispatch:
         inputs:
             rss_source_url:
