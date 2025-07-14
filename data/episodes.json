@@ -141419,5 +141419,94 @@
         "attrib": {}
       }
     ]
+  },
+  "908ae92c-49ee-49c0-aaa4-7332e807e6a0": {
+    "date": "2025-07-14T16:37:00+02:00",
+    "elements": [
+      {
+        "namespace": null,
+        "tag": "title",
+        "text": "tagesschau in 100 Sekunden",
+        "attrib": {}
+      },
+      {
+        "namespace": null,
+        "tag": "link",
+        "text": "https://www.tagesschau.de/multimedia/sendung/tagesschau_in_100_sekunden/audio-239286.html",
+        "attrib": {}
+      },
+      {
+        "namespace": null,
+        "tag": "description",
+        "text": "tagesschau in 100 Sekunden",
+        "attrib": {}
+      },
+      {
+        "namespace": null,
+        "tag": "pubDate",
+        "text": "Mon, 14 Jul 2025 16:37:00 +0200",
+        "attrib": {}
+      },
+      {
+        "namespace": null,
+        "tag": "enclosure",
+        "text": null,
+        "attrib": {
+          "url": "https://media.tagesschau.de/audio/2025/0714/AU-20250714-1636-5900.mp3",
+          "type": "audio/mpeg",
+          "length": "1984374"
+        }
+      },
+      {
+        "namespace": null,
+        "tag": "guid",
+        "text": "908ae92c-49ee-49c0-aaa4-7332e807e6a0",
+        "attrib": {}
+      },
+      {
+        "namespace": "http://purl.org/dc/elements/1.1/",
+        "tag": "date",
+        "text": "2025-07-14T14:37:00Z",
+        "attrib": {}
+      },
+      {
+        "namespace": "http://purl.org/rss/1.0/modules/content/",
+        "tag": "encoded",
+        "text": "tagesschau in 100 Sekunden",
+        "attrib": {}
+      },
+      {
+        "namespace": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "tag": "duration",
+        "text": "00:02:03",
+        "attrib": {}
+      },
+      {
+        "namespace": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "tag": "episodeType",
+        "text": "full",
+        "attrib": {}
+      },
+      {
+        "namespace": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "tag": "explicit",
+        "text": "false",
+        "attrib": {}
+      },
+      {
+        "namespace": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "tag": "image",
+        "text": null,
+        "attrib": {
+          "href": "https://images.tagesschau.de/image/72f4cb81-8664-42d9-a4c9-2a0e4584f5be/AAABlbMKxJ4/AAABkZLotXc/1x1-big/podcast-tsh-100.jpg?overlay=4b852895-4b65-4038-87ff-8b7536238128&overlayModificationDate=AAABl3iUYys&width=3000"
+        }
+      },
+      {
+        "namespace": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "tag": "summary",
+        "text": "tagesschau in 100 Sekunden",
+        "attrib": {}
+      }
+    ]
   }
 }
