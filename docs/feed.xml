@@ -36,8 +36,23 @@
     <itunes:keywords>tagesschau in 100 Sekunden</itunes:keywords>
     <itunes:summary>Der tagesschau-Nachrichtenüberblick in 100 Sekunden als Audio-Podcast</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Sat, 02 Aug 2025 15:27:34 +0000</pubDate>
-    <lastBuildDate>Sat, 02 Aug 2025 15:27:34 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Aug 2025 15:50:21 +0000</pubDate>
+    <lastBuildDate>Sat, 02 Aug 2025 15:50:21 +0000</lastBuildDate>
+    <item>
+      <title>2025-08-02T17:31 - tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/multimedia/sendung/tagesschau_in_100_sekunden/audio-253330.html</link>
+      <description>tagesschau in 100 Sekunden vom 2025-08-02 um 17:31 Uhr</description>
+      <pubDate>Sat, 02 Aug 2025 17:31:00 +0200</pubDate>
+      <enclosure url="https://media.tagesschau.de/audio/2025/0802/AU-20250802-1731-3900.mp3" type="audio/mpeg" length="1746678"></enclosure>
+      <guid isPermaLink="false">84441b15-f1cd-4c79-bafa-a7383ec0e6bd</guid>
+      <dc:date>2025-08-02T15:31:00Z</dc:date>
+      <content:encoded>&lt;p&gt;tagesschau in 100 Sekunden vom 2025-08-02 um 17:31 Uhr&lt;br /&gt;&lt;a href="https://www.tagesschau.de/multimedia/sendung/tagesschau_in_100_sekunden/audio-253330.html"&gt;https://www.tagesschau.de/multimedia/sendung/tagesschau_in_100_sekunden/audio-253330.html&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <itunes:duration>00:01:49</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://images.tagesschau.de/image/72f4cb81-8664-42d9-a4c9-2a0e4584f5be/AAABlbMKxJ4/AAABmFUVuqs/1x1-big/podcast-tsh-100.jpg?overlay=4b852895-4b65-4038-87ff-8b7536238128&amp;overlayModificationDate=AAABl3iUYys&amp;width=3000"></itunes:image>
+      <itunes:summary>tagesschau in 100 Sekunden vom 2025-08-02 um 17:31 Uhr</itunes:summary>
+    </item>
     <item>
       <title>2025-08-02T17:04 - tagesschau in 100 Sekunden</title>
       <link>https://www.tagesschau.de/multimedia/sendung/tagesschau_in_100_sekunden/audio-253316.html</link>
