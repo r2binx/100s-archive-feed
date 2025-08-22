@@ -36,8 +36,23 @@
     <itunes:keywords>tagesschau in 100 Sekunden</itunes:keywords>
     <itunes:summary>Der tagesschau-Nachrichtenüberblick in 100 Sekunden als Audio-Podcast</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Fri, 22 Aug 2025 08:53:42 +0000</pubDate>
-    <lastBuildDate>Fri, 22 Aug 2025 08:53:42 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Aug 2025 10:27:11 +0000</pubDate>
+    <lastBuildDate>Fri, 22 Aug 2025 10:27:11 +0000</lastBuildDate>
+    <item>
+      <title>2025-08-22T11:49 - tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-267398.html</link>
+      <description>tagesschau in 100 Sekunden vom 2025-08-22 um 11:49 Uhr</description>
+      <pubDate>Fri, 22 Aug 2025 11:49:00 +0200</pubDate>
+      <enclosure url="https://media.tagesschau.de/audio/2025/0822/AU-20250822-1149-2700.mp3" type="audio/mpeg" length="2027766"></enclosure>
+      <guid isPermaLink="false">571ad9e7-b5f4-4855-8a86-575b5167e503</guid>
+      <dc:date>2025-08-22T09:49:00Z</dc:date>
+      <content:encoded>&lt;p&gt;tagesschau in 100 Sekunden vom 2025-08-22 um 11:49 Uhr&lt;br /&gt;&lt;a href="https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-267398.html"&gt;https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-267398.html&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <itunes:duration>00:02:06</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://images.tagesschau.de/image/72f4cb81-8664-42d9-a4c9-2a0e4584f5be/AAABlbMKxJ4/AAABmKJMjoM/1x1-big/podcast-tsh-100.jpg?overlay=4b852895-4b65-4038-87ff-8b7536238128&amp;overlayModificationDate=AAABl3iUYys&amp;width=3000"></itunes:image>
+      <itunes:summary>tagesschau in 100 Sekunden vom 2025-08-22 um 11:49 Uhr</itunes:summary>
+    </item>
     <item>
       <title>2025-08-22T10:37 - tagesschau in 100 Sekunden</title>
       <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-267320.html</link>
