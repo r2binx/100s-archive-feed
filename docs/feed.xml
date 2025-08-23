@@ -36,8 +36,23 @@
     <itunes:keywords>tagesschau in 100 Sekunden</itunes:keywords>
     <itunes:summary>Der tagesschau-Nachrichtenüberblick in 100 Sekunden als Audio-Podcast</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Sat, 23 Aug 2025 15:48:12 +0000</pubDate>
-    <lastBuildDate>Sat, 23 Aug 2025 15:48:12 +0000</lastBuildDate>
+    <pubDate>Sat, 23 Aug 2025 16:49:09 +0000</pubDate>
+    <lastBuildDate>Sat, 23 Aug 2025 16:49:09 +0000</lastBuildDate>
+    <item>
+      <title>2025-08-23T18:32 - tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-268248.html</link>
+      <description>tagesschau in 100 Sekunden vom 2025-08-23 um 18:32 Uhr</description>
+      <pubDate>Sat, 23 Aug 2025 18:32:00 +0200</pubDate>
+      <enclosure url="https://media.tagesschau.de/audio/2025/0823/AU-20250823-1831-5700.mp3" type="audio/mpeg" length="1869174"></enclosure>
+      <guid isPermaLink="false">5d8f053c-6331-4913-aafa-d53787fcf31d</guid>
+      <dc:date>2025-08-23T16:32:00Z</dc:date>
+      <content:encoded>&lt;p&gt;tagesschau in 100 Sekunden vom 2025-08-23 um 18:32 Uhr&lt;br /&gt;&lt;a href="https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-268248.html"&gt;https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-268248.html&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <itunes:duration>00:01:56</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://images.tagesschau.de/image/72f4cb81-8664-42d9-a4c9-2a0e4584f5be/AAABlbMKxJ4/AAABmKJMjoM/1x1-big/podcast-tsh-100.jpg?overlay=4b852895-4b65-4038-87ff-8b7536238128&amp;overlayModificationDate=AAABl3iUYys&amp;width=3000"></itunes:image>
+      <itunes:summary>tagesschau in 100 Sekunden vom 2025-08-23 um 18:32 Uhr</itunes:summary>
+    </item>
     <item>
       <title>2025-08-23T17:29 - tagesschau in 100 Sekunden</title>
       <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-268228.html</link>
