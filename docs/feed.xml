@@ -36,8 +36,23 @@
     <itunes:keywords>tagesschau in 100 Sekunden</itunes:keywords>
     <itunes:summary>Der tagesschau-Nachrichtenüberblick in 100 Sekunden als Audio-Podcast</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Sun, 24 Aug 2025 19:19:05 +0000</pubDate>
-    <lastBuildDate>Sun, 24 Aug 2025 19:19:05 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Aug 2025 05:27:23 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Aug 2025 05:27:23 +0000</lastBuildDate>
+    <item>
+      <title>2025-08-25T04:52 - tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-268788.html</link>
+      <description>tagesschau in 100 Sekunden vom 2025-08-25 um 04:52 Uhr</description>
+      <pubDate>Mon, 25 Aug 2025 04:52:00 +0200</pubDate>
+      <enclosure url="https://media.tagesschau.de/audio/2025/0825/AU-20250825-0451-5100.mp3" type="audio/mpeg" length="2164086"></enclosure>
+      <guid isPermaLink="false">48767a6d-63a9-43a3-951b-ab9903a73df8</guid>
+      <dc:date>2025-08-25T02:52:00Z</dc:date>
+      <content:encoded>&lt;p&gt;tagesschau in 100 Sekunden vom 2025-08-25 um 04:52 Uhr&lt;br /&gt;&lt;a href="https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-268788.html"&gt;https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-268788.html&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <itunes:duration>00:02:15</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://images.tagesschau.de/image/72f4cb81-8664-42d9-a4c9-2a0e4584f5be/AAABlbMKxJ4/AAABmKJMjoM/1x1-big/podcast-tsh-100.jpg?overlay=4b852895-4b65-4038-87ff-8b7536238128&amp;overlayModificationDate=AAABl3iUYys&amp;width=3000"></itunes:image>
+      <itunes:summary>tagesschau in 100 Sekunden vom 2025-08-25 um 04:52 Uhr</itunes:summary>
+    </item>
     <item>
       <title>2025-08-24T21:05 - tagesschau in 100 Sekunden</title>
       <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-268650.html</link>
