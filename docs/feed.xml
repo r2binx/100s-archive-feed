@@ -36,8 +36,23 @@
     <itunes:keywords>tagesschau in 100 Sekunden</itunes:keywords>
     <itunes:summary>Der tagesschau-Nachrichtenüberblick in 100 Sekunden als Audio-Podcast</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Mon, 25 Aug 2025 17:48:17 +0000</pubDate>
-    <lastBuildDate>Mon, 25 Aug 2025 17:48:17 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Aug 2025 22:25:09 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Aug 2025 22:25:09 +0000</lastBuildDate>
+    <item>
+      <title>2025-08-26T00:19 - tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-269546.html</link>
+      <description>tagesschau in 100 Sekunden vom 2025-08-26 um 00:19 Uhr</description>
+      <pubDate>Tue, 26 Aug 2025 00:19:00 +0200</pubDate>
+      <enclosure url="https://media.tagesschau.de/audio/2025/0826/AU-20250826-0018-5200.mp3" type="audio/mpeg" length="1715574"></enclosure>
+      <guid isPermaLink="false">9f9e03b5-588d-487c-8e42-bb21a5c4f834</guid>
+      <dc:date>2025-08-25T22:19:00Z</dc:date>
+      <content:encoded>&lt;p&gt;tagesschau in 100 Sekunden vom 2025-08-26 um 00:19 Uhr&lt;br /&gt;&lt;a href="https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-269546.html"&gt;https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-269546.html&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <itunes:duration>00:01:47</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://images.tagesschau.de/image/72f4cb81-8664-42d9-a4c9-2a0e4584f5be/AAABlbMKxJ4/AAABmKJMjoM/1x1-big/podcast-tsh-100.jpg?overlay=4b852895-4b65-4038-87ff-8b7536238128&amp;overlayModificationDate=AAABl3iUYys&amp;width=3000"></itunes:image>
+      <itunes:summary>tagesschau in 100 Sekunden vom 2025-08-26 um 00:19 Uhr</itunes:summary>
+    </item>
     <item>
       <title>2025-08-25T19:42 - tagesschau in 100 Sekunden</title>
       <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-269462.html</link>
