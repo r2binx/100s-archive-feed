@@ -36,8 +36,23 @@
     <itunes:keywords>tagesschau in 100 Sekunden</itunes:keywords>
     <itunes:summary>Der tagesschau-Nachrichtenüberblick in 100 Sekunden als Audio-Podcast</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Wed, 27 Aug 2025 15:48:30 +0000</pubDate>
-    <lastBuildDate>Wed, 27 Aug 2025 15:48:30 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Aug 2025 16:52:43 +0000</pubDate>
+    <lastBuildDate>Wed, 27 Aug 2025 16:52:43 +0000</lastBuildDate>
+    <item>
+      <title>2025-08-27T18:35 - tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-271152.html</link>
+      <description>tagesschau in 100 Sekunden vom 2025-08-27 um 18:35 Uhr</description>
+      <pubDate>Wed, 27 Aug 2025 18:35:00 +0200</pubDate>
+      <enclosure url="https://media.tagesschau.de/audio/2025/0827/AU-20250827-1835-3500.mp3" type="audio/mpeg" length="2130294"></enclosure>
+      <guid isPermaLink="false">7bd045cb-6577-4de6-a0ef-23af42e3a40a</guid>
+      <dc:date>2025-08-27T16:35:00Z</dc:date>
+      <content:encoded>&lt;p&gt;tagesschau in 100 Sekunden vom 2025-08-27 um 18:35 Uhr&lt;br /&gt;&lt;a href="https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-271152.html"&gt;https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-271152.html&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <itunes:duration>00:02:13</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://images.tagesschau.de/image/72f4cb81-8664-42d9-a4c9-2a0e4584f5be/AAABlbMKxJ4/AAABmKJMjoM/1x1-big/podcast-tsh-100.jpg?overlay=4b852895-4b65-4038-87ff-8b7536238128&amp;overlayModificationDate=AAABl3iUYys&amp;width=3000"></itunes:image>
+      <itunes:summary>tagesschau in 100 Sekunden vom 2025-08-27 um 18:35 Uhr</itunes:summary>
+    </item>
     <item>
       <title>2025-08-27T17:41 - tagesschau in 100 Sekunden</title>
       <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-271116.html</link>
