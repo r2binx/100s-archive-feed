@@ -36,8 +36,23 @@
     <itunes:keywords>tagesschau in 100 Sekunden</itunes:keywords>
     <itunes:summary>Der tagesschau-Nachrichtenüberblick in 100 Sekunden als Audio-Podcast</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Sat, 30 Aug 2025 11:17:57 +0000</pubDate>
-    <lastBuildDate>Sat, 30 Aug 2025 11:17:57 +0000</lastBuildDate>
+    <pubDate>Sat, 30 Aug 2025 14:20:38 +0000</pubDate>
+    <lastBuildDate>Sat, 30 Aug 2025 14:20:38 +0000</lastBuildDate>
+    <item>
+      <title>2025-08-30T15:21 - tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-273280.html</link>
+      <description>tagesschau in 100 Sekunden vom 2025-08-30 um 15:21 Uhr</description>
+      <pubDate>Sat, 30 Aug 2025 15:21:00 +0200</pubDate>
+      <enclosure url="https://media.tagesschau.de/audio/2025/0830/AU-20250830-1521-0900.mp3" type="audio/mpeg" length="2077686"></enclosure>
+      <guid isPermaLink="false">1b323dab-77ab-47a0-aa7e-8dcd8d8ecc66</guid>
+      <dc:date>2025-08-30T13:21:00Z</dc:date>
+      <content:encoded>&lt;p&gt;tagesschau in 100 Sekunden vom 2025-08-30 um 15:21 Uhr&lt;br /&gt;&lt;a href="https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-273280.html"&gt;https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-273280.html&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <itunes:duration>00:02:09</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://images.tagesschau.de/image/72f4cb81-8664-42d9-a4c9-2a0e4584f5be/AAABlbMKxJ4/AAABmKJMjoM/1x1-big/podcast-tsh-100.jpg?overlay=4b852895-4b65-4038-87ff-8b7536238128&amp;overlayModificationDate=AAABl3iUYys&amp;width=3000"></itunes:image>
+      <itunes:summary>tagesschau in 100 Sekunden vom 2025-08-30 um 15:21 Uhr</itunes:summary>
+    </item>
     <item>
       <title>2025-08-30T13:17 - tagesschau in 100 Sekunden</title>
       <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-273232.html</link>
