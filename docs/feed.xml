@@ -36,8 +36,23 @@
     <itunes:keywords>tagesschau in 100 Sekunden</itunes:keywords>
     <itunes:summary>Der tagesschau-Nachrichtenüberblick in 100 Sekunden als Audio-Podcast</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Tue, 02 Sep 2025 14:26:25 +0000</pubDate>
-    <lastBuildDate>Tue, 02 Sep 2025 14:26:25 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Sep 2025 15:49:17 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2025 15:49:17 +0000</lastBuildDate>
+    <item>
+      <title>2025-09-02T17:35 - tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-275300.html</link>
+      <description>tagesschau in 100 Sekunden vom 2025-09-02 um 17:35 Uhr</description>
+      <pubDate>Tue, 02 Sep 2025 17:35:00 +0200</pubDate>
+      <enclosure url="https://media.tagesschau.de/audio/2025/0902/AU-20250902-1735-2900.mp3" type="audio/mpeg" length="2044278"></enclosure>
+      <guid isPermaLink="false">ad2e476c-b5d3-4e7b-8bf0-7591e898fbf2</guid>
+      <dc:date>2025-09-02T15:35:00Z</dc:date>
+      <content:encoded>&lt;p&gt;tagesschau in 100 Sekunden vom 2025-09-02 um 17:35 Uhr&lt;br /&gt;&lt;a href="https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-275300.html"&gt;https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-275300.html&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <itunes:duration>00:02:07</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://images.tagesschau.de/image/72f4cb81-8664-42d9-a4c9-2a0e4584f5be/AAABlbMKxJ4/AAABmKJMjoM/1x1-big/podcast-tsh-100.jpg?overlay=4b852895-4b65-4038-87ff-8b7536238128&amp;overlayModificationDate=AAABl3iUYys&amp;width=3000"></itunes:image>
+      <itunes:summary>tagesschau in 100 Sekunden vom 2025-09-02 um 17:35 Uhr</itunes:summary>
+    </item>
     <item>
       <title>2025-09-02T15:30 - tagesschau in 100 Sekunden</title>
       <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-275188.html</link>
