@@ -36,8 +36,23 @@
     <itunes:keywords>tagesschau in 100 Sekunden</itunes:keywords>
     <itunes:summary>Der tagesschau-Nachrichtenüberblick in 100 Sekunden als Audio-Podcast</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Tue, 21 Oct 2025 09:49:33 +0000</pubDate>
-    <lastBuildDate>Tue, 21 Oct 2025 09:49:33 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Oct 2025 14:24:07 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Oct 2025 14:24:07 +0000</lastBuildDate>
+    <item>
+      <title>2025-10-21T14:34 - tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-311484.html</link>
+      <description>tagesschau in 100 Sekunden vom 2025-10-21 um 14:34 Uhr</description>
+      <pubDate>Tue, 21 Oct 2025 14:34:00 +0200</pubDate>
+      <enclosure url="https://media.tagesschau.de/audio/2025/1021/AU-20251021-1434-0400.mp3" type="audio/mpeg" length="1693692"></enclosure>
+      <guid isPermaLink="false">1e19e96c-4497-4bcf-8884-ec2e515ef40f</guid>
+      <dc:date>2025-10-21T12:34:00Z</dc:date>
+      <content:encoded>&lt;p&gt;tagesschau in 100 Sekunden vom 2025-10-21 um 14:34 Uhr&lt;br /&gt;&lt;a href="https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-311484.html"&gt;https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-311484.html&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <itunes:duration>00:01:45</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://images.tagesschau.de/image/b6d58cc5-0802-467d-a65f-4d3a951b0618/AAABmQ5lnas/AAABmgWmzQQ/1x1-big/podcast-tagesschau-100-sekunden-100.jpg?overlay=4b852895-4b65-4038-87ff-8b7536238128&amp;overlayModificationDate=AAABl3iUYys&amp;width=3000"></itunes:image>
+      <itunes:summary>tagesschau in 100 Sekunden vom 2025-10-21 um 14:34 Uhr</itunes:summary>
+    </item>
     <item>
       <title>2025-10-21T11:34 - tagesschau in 100 Sekunden</title>
       <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-311314.html</link>
