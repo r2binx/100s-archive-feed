@@ -36,8 +36,23 @@
     <itunes:keywords>tagesschau in 100 Sekunden</itunes:keywords>
     <itunes:summary>Der tagesschau-Nachrichtenüberblick in 100 Sekunden als Audio-Podcast</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Wed, 19 Nov 2025 08:35:12 +0000</pubDate>
-    <lastBuildDate>Wed, 19 Nov 2025 08:35:12 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Nov 2025 08:55:28 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Nov 2025 08:55:28 +0000</lastBuildDate>
+    <item>
+      <title>2025-11-19T09:37 - tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-333258.html</link>
+      <description>tagesschau in 100 Sekunden vom 2025-11-19 um 09:37 Uhr</description>
+      <pubDate>Wed, 19 Nov 2025 09:37:00 +0100</pubDate>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2025/1119/AU-20251119-0937-3400.mp3" type="audio/mpeg" length="191383"></enclosure>
+      <guid isPermaLink="false">d8fc75b8-4bcf-4b30-baa1-6092d54ef9c4</guid>
+      <dc:date>2025-11-19T08:37:00Z</dc:date>
+      <content:encoded>&lt;p&gt;tagesschau in 100 Sekunden vom 2025-11-19 um 09:37 Uhr&lt;br /&gt;&lt;a href="https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-333258.html"&gt;https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-333258.html&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <itunes:duration>00:00:11</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://images.tagesschau.de/image/b6d58cc5-0802-467d-a65f-4d3a951b0618/AAABmQ5lnas/AAABmgWmzQQ/1x1-big/podcast-tagesschau-100-sekunden-100.jpg?overlay=4b852895-4b65-4038-87ff-8b7536238128&amp;overlayModificationDate=AAABl3iUYys&amp;width=3000"></itunes:image>
+      <itunes:summary>tagesschau in 100 Sekunden vom 2025-11-19 um 09:37 Uhr</itunes:summary>
+    </item>
     <item>
       <title>2025-11-19T08:48 - tagesschau in 100 Sekunden</title>
       <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-333212.html</link>
