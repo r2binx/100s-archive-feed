@@ -36,8 +36,23 @@
     <itunes:keywords>tagesschau in 100 Sekunden</itunes:keywords>
     <itunes:summary>Der tagesschau-Nachrichtenüberblick in 100 Sekunden als Audio-Podcast</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Tue, 02 Dec 2025 10:31:49 +0000</pubDate>
-    <lastBuildDate>Tue, 02 Dec 2025 10:31:49 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Dec 2025 10:53:18 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Dec 2025 10:53:18 +0000</lastBuildDate>
+    <item>
+      <title>2025-12-02T11:31 - tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-345672.html</link>
+      <description>tagesschau in 100 Sekunden vom 2025-12-02 um 11:31 Uhr</description>
+      <pubDate>Tue, 02 Dec 2025 11:31:00 +0100</pubDate>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2025/1202/AU-20251202-1131-5200.mp3" type="audio/mpeg" length="1838731"></enclosure>
+      <guid isPermaLink="false">0d2ca872-ef2d-4444-a933-c01b3cd0bd53</guid>
+      <dc:date>2025-12-02T10:31:00Z</dc:date>
+      <content:encoded>&lt;p&gt;tagesschau in 100 Sekunden vom 2025-12-02 um 11:31 Uhr&lt;br /&gt;&lt;a href="https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-345672.html"&gt;https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-345672.html&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <itunes:duration>00:01:54</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://images.tagesschau.de/image/b6d58cc5-0802-467d-a65f-4d3a951b0618/AAABmQ5lnas/AAABmt42TiM/1x1-big/podcast-tagesschau-100-sekunden-100.jpg?overlay=4b852895-4b65-4038-87ff-8b7536238128&amp;overlayModificationDate=AAABl3iUYys&amp;width=3000"></itunes:image>
+      <itunes:summary>tagesschau in 100 Sekunden vom 2025-12-02 um 11:31 Uhr</itunes:summary>
+    </item>
     <item>
       <title>2025-12-02T10:53 - tagesschau in 100 Sekunden</title>
       <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-345640.html</link>
