@@ -36,8 +36,23 @@
     <itunes:keywords>tagesschau in 100 Sekunden</itunes:keywords>
     <itunes:summary>Der tagesschau-Nachrichtenüberblick in 100 Sekunden als Audio-Podcast</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Thu, 24 Sep 2026 22:16:18 +0000</pubDate>
-    <lastBuildDate>Thu, 24 Sep 2026 22:16:18 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2026 00:36:39 +0000</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2026 00:36:39 +0000</lastBuildDate>
+    <item>
+      <title>2026-09-25T02:11 - tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3497568.html</link>
+      <description>tagesschau in 100 Sekunden vom 2026-09-25 um 02:11 Uhr</description>
+      <pubDate>Fri, 25 Sep 2026 02:11:00 +0200</pubDate>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0925/AU-20260925-0211-4200.mp3" type="audio/mpeg" length="2034187"></enclosure>
+      <guid isPermaLink="false">cef556b7-ba49-48a6-bdab-5982d113039d</guid>
+      <dc:date>2026-09-25T00:11:00Z</dc:date>
+      <content:encoded>&lt;p&gt;tagesschau in 100 Sekunden vom 2026-09-25 um 02:11 Uhr&lt;br /&gt;&lt;a href="https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3497568.html"&gt;https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3497568.html&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <itunes:duration>00:02:07</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://images.tagesschau.de/image/b6d58cc5-0802-467d-a65f-4d3a951b0618/AAABmQ5lnas/AAABnSStX0g/1x1-big/podcast-tagesschau-100-sekunden-100.jpg?overlay=4b852895-4b65-4038-87ff-8b7536238128&amp;overlayModificationDate=AAABl3iUYys&amp;width=3000"></itunes:image>
+      <itunes:summary>tagesschau in 100 Sekunden vom 2026-09-25 um 02:11 Uhr</itunes:summary>
+    </item>
     <item>
       <title>2026-09-24T22:04 - tagesschau in 100 Sekunden</title>
       <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3497452.html</link>
